@@ -5226,7 +5226,9 @@
       "expression": {
         "interpolated": false,
         "parameters": [
-          "zoom"
+          "zoom",
+          "feature",
+          "feature-state"
         ]
       },
       "property-type": "data-driven"
