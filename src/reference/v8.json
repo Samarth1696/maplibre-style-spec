@@ -5229,7 +5229,7 @@
           "zoom"
         ]
       },
-      "property-type": "cross-faded"
+      "property-type": "data-driven"
     },
     "line-pattern": {
       "type": "resolvedImage",
